@@ -26,5 +26,10 @@ namespace ValashPIe
         {
             Application.Run(new FormLoad());
         }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            
+        }
     }
 }
